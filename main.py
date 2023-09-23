@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Sep 23 20:24:45 2023
-
-@author: HamzaEren
-"""
-
 #%% Import modules
 from tkinter import Tk, Label
 from time import strftime
